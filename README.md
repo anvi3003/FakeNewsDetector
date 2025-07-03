@@ -1,6 +1,36 @@
 # FakeNews Detector Web App
+This project is a fork of [SachinNinja/FakeNewsDetector](https://github.com/SachinNinja/FakeNewsDetector), originally built using Flask and machine learning models to classify news articles as real or fake. I have adapted it as part of my personal learning journey.
 
 This is a web application called FakeNews, which is designed to detect and classify fake news articles. The app is built using Flask, a Python web framework, and utilizes a machine learning model trained on four different algorithms to achieve an accuracy of approximately 94%. The model uses four features to classify news articles as either real or fake.
+
+## 🌟 Why I Chose This Project
+
+Fake news is a real problem — especially on platforms like WhatsApp — and it disproportionately affects vulnerable groups like the elderly and children. I want to explore how computer science can be used to **flag misinformation, build awareness**, and create **safer digital spaces**.
+This project reflects my interest in:
+- Social impact through technology
+- Natural language processing (NLP)
+- Real-world applications of AI
+
+  
+  ## 🛠️ Current Progress
+
+While I'm still learning Python and ML, here’s what I’ve done so far:
+- Forked an open-source Fake News Detector
+- Studied how text is converted into features (TF-IDF)
+- Understood how logistic regression models classify news
+- Modified the README to reflect my purpose
+
+  I plan to:
+- Build a feature that simulates detecting WhatsApp-forwards
+- Add a basic warning message for flagged items
+- Customize the UI for Indian users in multiple languages
+
+
+## 🧠 What I’m Learning
+- Python
+- Flask for basic web apps
+- How classifiers are trained using real data
+
 
 ## Installation
 
@@ -60,6 +90,7 @@ Contributions to the FakeNews web app are welcome. If you find any bugs or have 
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute the code for personal or commercial purposes.
+## This project is in progress and reflects my willingness to learn, adapt, and build real solutions
 
 ## Acknowledgments
 
